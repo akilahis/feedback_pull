@@ -7,8 +7,8 @@ import os
 
 #create supabase client
 from supabase import create_client, Client
-SUPABASE_URL = os.getenv("SUPABASE_URL", "https://glvtkdmsulyxroybvsxf.supabase.co")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdsdnRrZG1zdWx5eHJveWJ2c3hmIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTU2MjM2OTUsImV4cCI6MjAxMTE5OTY5NX0.9wwVo4dgt64JlGrIGXTiLZzQlHknldCo-DxK3VgDgHY")
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 #load saved responses

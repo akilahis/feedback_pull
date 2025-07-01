@@ -2,19 +2,24 @@ import requests
 import os 
 import json
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
+api_token = os.getenv("API_AUTH_TOKEN")
+
 
 # Define your API endpoint and parameters
 url = "https://us-central1-chumbaka-dev-tms.cloudfunctions.net/bdAPI"
 params = {
     "type": "feedbacks",
-    "from": "2024-01-01",
+    "from": "2025-01-01",
     "to": "2025-06-16",
     #"schedule_id" : "MALAYSIA_MON0000_867"
 }
 
 # Add your authorization token (replace TOKEN_HERE with your actual token)
 headers = {
-    "Authorization": "Bearer Mdj-e3_ue4n%n3Hdj_emfH-dbKrrJr33fe4-u3e_n3",
+    "Authorization": api_token,
     "Content-Type": "application/json"
 }
 # Create a data directory if it doesn't exist
