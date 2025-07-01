@@ -1,0 +1,79 @@
+﻿question_id,program_type,form_type,target_respondent,question #,question
+1,stem,feedback,teacher,1,How would you rate the overall quality of this Course?
+2,stem,feedback,teacher,2,Would you recommend this Course to others in a similar role?
+3,stem,feedback,teacher,3,Do you have the resources required and the necessary support to apply what you have learnt?
+4,stem,feedback,teacher,4,List at least 3 actions you will take in the next 1-3 weeks to apply what you have learned in this Course.
+5,stem,feedback,teacher,5,"Do you have any suggestions on how Chumbaka could further improve the Course? What did you like best, what did you like least?"
+6,stem,feedback,teacher,6,The training venue and facilities were conducive to learning.
+7,stem,feedback,teacher,7,The coordinator's pre-training communication is good.
+8,stem,feedback,teacher,8,The coordinator is helpful in training coordination
+9,stem,feedback,teacher,9,(If applicable) Please rate your satisfaction with the provided food/refreshments during the Course. 
+10,stem,feedback,teacher,10,How much of the tech knowledge provided during the Course is useful to you?
+11,stem,feedback,teacher,11,How much of the 21st-century pedagogical knowledge provided during the Course is useful to you?
+12,stem,feedback,teacher,12,3 things you enjoyed the most in the Course are: 
+13,stem,feedback,teacher,13,What do you wish we learn more about in this course? 
+14,stem,feedback,teacher,14,Your rating for your trainer
+15,stem,feedback,teacher,15,Your trainer is good at explaining things.
+16,stem,feedback,teacher,16,Your trainer encourages you to think deeper.
+17,stem,feedback,teacher,17,Your trainer gives you helpful feedback during class.
+18,stem,feedback,teacher,18,You are confident in facilitating students' learning through the Learning Management System (LMS) after this.
+19,stem,feedback,teacher,19,3 things you will enjoy the most in LMS are: 
+20,stem,feedback,teacher,20,What else do you wish LMS could do? 
+104,learning loss,feedback,teacher,1,How would you rate the overall quality of this Workshop (Start-up Workshop)
+105,learning loss,feedback,teacher,2,Would you recommend this Workshop to others in a similar role?
+106,learning loss,feedback,teacher,3,Do you have the resources required and the necessary support to apply what you have learnt?
+107,learning loss,feedback,teacher,4,List at least 3 actions you will take in the next 1-3 weeks to apply what you have learned in this Workshop.
+108,learning loss,feedback,teacher,5,"Do you have any suggestions on how Chumbaka could further improve the Workshop? What did you like best, what did you like least?"
+109,learning loss,feedback,teacher,6,The workshop venue and facilities were conducive to learning.
+110,learning loss,feedback,teacher,7,The coordinator's pre-workshop communication is good.
+111,learning loss,feedback,teacher,8,The coordinator is helpful in workshop coordination
+112,learning loss,feedback,teacher,9,(If applicable) Please rate your satisfaction with the provided food/refreshments during the Workshop.
+113,learning loss,feedback,teacher,10,How much of the tech knowledge provided during the Workshop is useful to you?
+114,learning loss,feedback,teacher,11,How much of the 21st-century pedagogical knowledge provided during the Workshop is useful to you?
+115,learning loss,feedback,teacher,12,3 things you enjoyed the most in the Workshop are:
+116,learning loss,feedback,teacher,13,What do you wish we learn more about in this wprkshop?
+117,learning loss,feedback,teacher,14,Your rating for your trainers
+118,learning loss,feedback,teacher,15,Your trainers are good at explaining things.
+119,learning loss,feedback,teacher,16,Your trainers encourages you to think deeper.
+120,learning loss,feedback,teacher,17,Your trainers give you helpful feedback during workshop.
+121,learning loss,feedback,teacher,18,You are confident in facilitating students' learning through the Kayam School after this.
+122,learning loss,feedback,teacher,19,3 things you will enjoy the most in Kayam School App are:
+123,learning loss,feedback,teacher,20,What else do you wish Kayam School App could do?
+152,stem,feedback competition,student,1, How would you rate the overall experience in this Competition?
+153,stem,feedback competition,student,2, Would you recommend this Competition to other friends?
+154,stem,feedback competition,student,3, Did you have fun in this Competition?
+155,stem,feedback competition,student,4," Do you have any suggestions on how Young Innovators Challenge (YIC) could further improve? What did you like best, what did you like least?"
+156,stem,feedback competition,student,5," Over the last few months, you have become better in .. "
+157,stem,feedback competition,student,6, How much did this Competition help you learn things related to the world around you or things you experience in real life?
+158,stem,feedback competition,student,7, Did this Competition allow you to work on cool & interesting projects?
+159,stem,feedback competition,student,8, 3 things you enjoyed the most in the Competition are: 
+160,stem,feedback competition,student,9," If you chose Others, what are they? "
+161,stem,feedback competition,student,10, What is something you wish we learn more about in this Competition?
+162,stem,feedback competition,student,11, Your rating for your teacher/mentor
+163,stem,feedback competition,student,12, Your teacher/mentor is good at explaining things. 
+164,stem,feedback competition,student,13, Your teacher/mentor encourages you to think deeper.
+165,stem,feedback competition,student,14, Your teacher/mentor gives you helpful feedback during class.
+166,stem,feedback competition,student,15, Your teacher/mentor is effective in using LMS to guide you.
+167,stem,feedback competition,student,16, 3 things you enjoyed the most in LMS are: 
+168,stem,feedback,student,1,How would you rate the overall quality of this Course?
+169,stem,feedback,student,2,Would you recommend this Course to other friends?
+170,stem,feedback,student,3,Did you have fun in this Course?
+171,stem,feedback,student,4,"Do you have any suggestions on how Chumbaka could further improve the Course? What did you like best, what did you like least?"
+172,stem,feedback,student,5,"Over the last few months, you have become better in .. "
+173,stem,feedback,student,6,The training venue and facilities were conducive to learning.
+174,stem,feedback,student,7,The coordinator's pre-training communication is good.
+175,stem,feedback,student,8,The coordinator is helpful in training coordination
+176,stem,feedback,student,9,(If applicable) Please rate your satisfaction with the provided food/refreshments during the Course. 
+177,stem,feedback,student,10,How much did this Course help you learn things related to the world around you or things you experience in real life?
+178,stem,feedback,student,11,Did this course allow you to work on cool & interesting projects?
+179,stem,feedback,student,12,3 things you enjoyed the most in the whole course are: 
+180,stem,feedback,student,13,"If you chose Others, what are they? "
+181,stem,feedback,student,14,What is something you wish we learn more about in this course?
+182,stem,feedback,student,15,Your rating for your mentor
+183,stem,feedback,student,16,Your mentor is good at explaining things. 
+184,stem,feedback,student,17,Your mentor encourages you to think deeper.
+185,stem,feedback,student,18,Your mentor gives you helpful feedback during class.
+186,stem,feedback,student,19,Your mentor is effective in using LMS to guide you.
+187,stem,feedback,student,20,3 things you enjoyed the most in LMS are: 
+188,learning loss,feedback,teacher,21,3 things you will enjoy the most in Sekolah Enuma App are:
+189,learning loss,feedback,teacher,22,What else do you wish Sekolah Enuma App could do?
